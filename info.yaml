@@ -2,7 +2,7 @@
 project:
   wokwi_id:         445255326319805441
   title:        "Svens Woki design"     
-  author:       "  #Sven"      
+  author:       "Sven"      
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  " My project connects the switch to the light"      
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
